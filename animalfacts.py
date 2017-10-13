@@ -1076,7 +1076,18 @@ SQUID_FACTS = (
     'Squids belong to a particularly successful group of mollusks called the cephalopods, which have been around for about 500 million years.',
     'Giant squid mostly eat deep water fishes and other squids including other giant squids.',
     'The only predators that giant squid have are sperm whales.')
-
+STARFISH_FACTS = (
+	'They have no brain and no blood.',
+	'At least for something of their small size, sea stars can weigh up to 11 pounds.',
+	'The average lifespan of a sea star is 35 years.',
+	'They’re actually related to sand dollars and sea urchins.',
+	'They live in cold and warm climates all over the world.',
+	'They cannot survive in fresh water.',
+	'It can take u to a year for a lost limb to grow back.',
+	'they have tiny suction cups to grab ahold of their food. Then their stomach exits their mouth to digest the food, and reenters the body when they’re done eating.',
+	'they are not classified as fish, scientists prefer to call starfish "sea stars."',
+	'There are about 2,000 species of sea stars. Some live in the intertidal zone while others live in the deep water of the ocean.',
+	'A sea stars spines are used for protection from predators, which include birds, fish, and sea otters.')
 
 TIGER_FACTS = (
     'The tiger is the biggest species of the cat family.',
