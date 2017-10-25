@@ -435,7 +435,8 @@ CROCODILE_FACTS = (
     'The skin on the back of the crocodile is so hard and tough, not even a bullet can pierce it.',
     'The closest relatives of the crocodile in the animal kingdom are rather disparate: Birds and Dinosaurs.',
     'Crocodiles normally drown their prey by dragging them underwater before cutting their meat into smaller chunks.',
-    'Crocodiles can shoot out from the water at almost 12 meters per second!'
+    'Crocodiles can shoot out from the water at almost 12 meters per second!',
+	'Temperature of the nest will determines the gender of the crocodile baby.'
     )
 
 CUTTLEFISH_FACTS = (
